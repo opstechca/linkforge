@@ -10,4 +10,4 @@ Bulk Issue Link Manager for Jira does not collect any data while you are using i
 
 Customer data is collected through Atlassian Marketplace only when evaluating or purchasing the app (name, company name, email address, Jira license tier). This information is collected by Atlassian and may be retrieved for support purposes only. It is not shared with any other party.
 
-For questions, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
+For questions, [submit a ticket](https://opstech-apps.atlassian.net/servicedesk/customer/portal/2).

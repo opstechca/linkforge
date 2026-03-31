@@ -22,6 +22,6 @@ The "Standard EULA" terms have been copied below to become OpsTech's EULA. Pleas
 
 (vi) The Marketplace Product is protected by copyright and other intellectual property laws and treaties. Unless otherwise expressly stated in the Publisher EULA, Publisher or its licensors own all title, copyright and other intellectual property rights in the Marketplace Product, and the Marketplace Product is licensed to you directly by the Publisher, not sold.
 
-(vii) Licensed customers, with the exception of Evaluation licenses, grant the Publisher permission to list them as customers on their website or any promotional material. Those listings might contain either the customer name or logo. This permission can be revoked at any time by [submitting a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
+(vii) Licensed customers, with the exception of Evaluation licenses, grant the Publisher permission to list them as customers on their website or any promotional material. Those listings might contain either the customer name or logo. This permission can be revoked at any time by [submitting a ticket](https://opstech-apps.atlassian.net/servicedesk/customer/portal/2).
 
-For questions, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
+For questions, [submit a ticket](https://opstech-apps.atlassian.net/servicedesk/customer/portal/2).

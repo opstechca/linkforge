@@ -8,7 +8,7 @@ layout: none
 
 ## Getting Help
 
-For questions, bugs, or feature requests, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
+For questions, bugs, or feature requests, [submit a ticket](https://opstech-apps.atlassian.net/servicedesk/customer/portal/2).
 
 We aim to respond within 1-2 business days.
 
