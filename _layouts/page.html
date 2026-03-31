@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="page-layout">
+  <aside class="sidebar">
+    {% assign nav = site.data.navigation[page.app] %}
+    {% for section in nav %}
+      <div class="nav-section">
+        <span class="nav-section-title">{{ section.title }}</span>
+        {% for child in section.children %}
+          <a href="{{ child.url }}" class="nav-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </aside>
+  <article class="content">
+    {{ content }}
+  </article>
+</div>

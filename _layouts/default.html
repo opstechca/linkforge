@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}OPSTech</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="site-nav">
+      <a href="/" class="brand">OPSTech</a>
+      <div class="nav-links">
+        <a href="/apps/" {% if page.url contains '/apps/' %}class="active"{% endif %}>Apps</a>
+        <a href="https://github.com/opstechca/bulk-issue-linker-for-jira" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </nav>
+  </header>
+  <main>{{ content }}</main>
+  <footer class="site-footer">
+    <p>&copy; 2025 OPSTech</p>
+  </footer>
+</body>
+</html>

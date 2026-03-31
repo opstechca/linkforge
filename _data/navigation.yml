@@ -1,0 +1,29 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Apps"
+    url: /apps/
+  - title: "GitHub"
+    url: https://github.com/opstechca
+
+bulk-issue-link-manager:
+  - title: Bulk Issue Link Manager
+    children:
+      - title: "Overview"
+        url: /apps/bulk-issue-link-manager/
+      - title: "Getting Started"
+        url: /apps/bulk-issue-link-manager/getting-started/
+  - title: Features
+    children:
+      - title: "Link Issues in Bulk"
+        url: /apps/bulk-issue-link-manager/features/link-issues-in-bulk/
+      - title: "Unlink Issues in Bulk"
+        url: /apps/bulk-issue-link-manager/features/unlink-issues-in-bulk/
+      - title: "Link Summary Panel"
+        url: /apps/bulk-issue-link-manager/features/link-summary/
+  - title: Reference
+    children:
+      - title: "Troubleshooting"
+        url: /apps/bulk-issue-link-manager/troubleshooting/
+      - title: "Changelog"
+        url: /apps/bulk-issue-link-manager/changelog/

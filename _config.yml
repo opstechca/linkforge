@@ -1,0 +1,10 @@
+title: OPSTech
+description: Purpose-built apps for Atlassian Jira Cloud
+url: https://opstech.ca
+repository: opstechca/linkforge
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+encoding: utf-8
