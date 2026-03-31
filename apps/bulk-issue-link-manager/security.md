@@ -16,7 +16,6 @@ Bulk Issue Link Manager for Jira is built on **Atlassian Forge**, Atlassian's se
 
 - The app reads and writes issue links via standard Jira REST APIs using the permissions of the currently logged-in user.
 - No end-user data is stored by the app. Issue keys and link types are processed in memory and discarded after each operation.
-- Admin settings (a single feature toggle) are stored in Forge Storage, scoped to your Atlassian site and managed by Atlassian.
 - No data is sent to any third-party service or external endpoint.
 
 ## Permissions
