@@ -8,7 +8,7 @@ layout: none
 
 ## Getting Help
 
-For questions, bugs, or feature requests related to Bulk Issue Link Manager for Jira, contact us at [support@opstech.ca](mailto:support@opstech.ca).
+For questions, bugs, or feature requests, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
 
 We aim to respond within 1-2 business days.
 

@@ -29,7 +29,7 @@ No admin-level or organisation-level scopes are requested.
 
 ## Reporting a Security Issue
 
-If you discover a security vulnerability, please email [security@opstech.ca](mailto:security@opstech.ca). Do not report security issues via GitHub or Marketplace reviews.
+If you discover a security vulnerability, please [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose). Do not report security issues via Marketplace reviews.
 
 We will acknowledge your report within 2 business days and aim to resolve confirmed issues within 14 days.
 

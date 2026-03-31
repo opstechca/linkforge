@@ -30,4 +30,4 @@ The app runs on Atlassian Forge. Atlassian's own privacy policy applies to data 
 
 ## Contact
 
-For privacy-related questions, contact [privacy@opstech.ca](mailto:privacy@opstech.ca).
+For privacy-related questions, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
