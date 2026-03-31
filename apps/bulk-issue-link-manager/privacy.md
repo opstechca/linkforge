@@ -18,7 +18,7 @@ The app accesses Jira issue data (issue keys, link types, and linked issues) sol
 
 ## Data Storage
 
-The only data stored by the app is admin configuration (a feature toggle), saved in Atlassian Forge Storage. This is scoped entirely to your Atlassian site and is never accessible to OpsTech.
+The app does not store any data. All operations are performed in memory and discarded when complete.
 
 ## Third Parties
 
