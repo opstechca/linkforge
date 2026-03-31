@@ -6,28 +6,8 @@ layout: none
 
 # Privacy Policy
 
-*Last updated: March 2026*
+Bulk Issue Link Manager for Jira does not collect any data while you are using it. All operations are performed within your Jira instance and no information is sent to or stored by OpsTech.
 
-## Overview
+Customer data is collected through Atlassian Marketplace only when evaluating or purchasing the app (name, company name, email address, Jira license tier). This information is collected by Atlassian and may be retrieved for support purposes only. It is not shared with any other party.
 
-Bulk Issue Link Manager for Jira by OpsTech does not collect, store, or transmit any personal data outside of Atlassian's infrastructure.
-
-## What the App Accesses
-
-The app accesses Jira issue data (issue keys, link types, and linked issues) solely to perform the linking and unlinking operations you initiate. This data is processed in memory during the operation and is not retained by the app.
-
-## Data Storage
-
-The app does not store any data. All operations are performed in memory and discarded when complete.
-
-## Third Parties
-
-The app does not share any data with third-party services. There are no analytics trackers, advertising networks, or external API calls.
-
-## Atlassian Platform
-
-The app runs on Atlassian Forge. Atlassian's own privacy policy applies to data processed within their platform. See [Atlassian's Privacy Policy](https://www.atlassian.com/legal/privacy-policy).
-
-## Contact
-
-For privacy-related questions, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
+For questions, [submit a ticket](https://github.com/opstechca/App-Docs/issues/new/choose).
