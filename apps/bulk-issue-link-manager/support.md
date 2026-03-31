@@ -1,6 +1,7 @@
 ---
 title: Support
 permalink: /apps/bulk-issue-link-manager/support/
+layout: none
 ---
 
 # Support

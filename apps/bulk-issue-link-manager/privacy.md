@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 permalink: /apps/bulk-issue-link-manager/privacy/
+layout: none
 ---
 
 # Privacy Policy

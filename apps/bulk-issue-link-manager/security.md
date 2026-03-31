@@ -1,6 +1,7 @@
 ---
 title: Security Policy
 permalink: /apps/bulk-issue-link-manager/security/
+layout: none
 ---
 
 # Security Policy
